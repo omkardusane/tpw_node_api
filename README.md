@@ -26,7 +26,6 @@ once to gte all node_modules.
 and you are good to go. 
 
 
-Contact me on Omkardusane@gmail.com if any issue. 
 I will be putting frequent updates and GUI repo as well.
 
 Thanks
